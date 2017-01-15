@@ -7,13 +7,13 @@ Repo para poder planificar y compartir las charlas de la comunidad Azure Clouder
 ## Código de Conducta Comunidad ([basado en los guidelines de github mismo](https://help.github.com/articles/github-community-guidelines/))
 
 ### Recomendaciones para construir una comunidad fuerte
-1. Se amable y de mente abierta
+1. __Se amable y de mente abierta__
   * Otros colaboradores pueden no tener el mismo nivel de experiencia y contexto que tu, pero eso no significa que no tengan buenas ideas para contribuir. Te alentamos a ser hospitalario a los nuevos colaboradores en sus proyectos y discusiones.
-2. Partir por la base de que no hay mala intención
+2. __Partir por la base de que no hay mala intención__
   * Los humanos cometemos errores y los desacuerdos y diferencias de opinion son sucesos de la vida. Trata de acercarte a tales conflictos con la perspectiva de que la gente desea hacer algo bueno también. Esto promovera una atmosfera de respeto donde la gente se pueda sentir comoda y hacer preguntas, participar en discusiones y poder hacer contribuciones.
-3. Mantenerse en el tema
+3. __Mantenerse en el tema__
   * La gente participa en esta comunidad para poder aprender y crecer sus habilidades. Los comentarios fuera de tema son distracciones( algunas veces bienvenidas, normalmente no) de lograr hacer el trabajo y ser productivos. Mantenerse en el tema ayuda a producir discusiones positivas y productivas.
-4. Ser claros y concisos
+4. __Ser claros y concisos__
   * Comunicarse con extraños a través de internet puede ser raro. Es difícil transmitir o entender el tono, y el sarcasmo es frecuentemente mal entendido. Trata de usar lenguaje claro, y piensa como el mensaje será recibido por los otros participantes.
 
 ### ¿Qué no está permitido?
