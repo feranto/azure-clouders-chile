@@ -1,4 +1,4 @@
-# azure-clouders-chile
+# Comunidad Azure Clouder Chile
 Repo para poder planificar y compartir las charlas de la comunidad Azure Clouders Chile. Acá podrás proponer nuevas charlas y ver los contenidos compartidos de las anteriores.
 
 ## ¿Como proponer una charla para un meetup?
