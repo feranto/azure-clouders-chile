@@ -1,12 +1,23 @@
-# Comunidad Azure Clouder Chile
+# Comunidad Azure Clouders Chile
 Repo para poder planificar y compartir las charlas de la comunidad Azure Clouders Chile. Acá podrás proponer nuevas charlas y ver los contenidos compartidos de las anteriores.
 
-## ¿Como proponer una charla para un meetup?
-1. Ingresa dentro de la estructura de carpetas al meetup en el que deseas proponer una charla
-
 ## Cómo organizamos nuestras charlas y colaboración
+Tenemos la intención de realizar un meetup presencial el segundo jueves de cada mes(puede estar sujeto a cambio en base a disponibilidad). Cada meetup sigue la siguiente estructura básica:
+
+*  19:00 - 19:20 :Llegada a lugar y compartir con miembros
+*  19:20 - 19:40 : Charla de 20 mins màximo
+*  19:40 - 20:00 : Charla de 20 mins máximo
+*  20:00 - 20:30 : Compartir con bebidas y cómida
+
+Nuestros canales digitales
+
 1. [Meetup](https://www.meetup.com/Azure-Clouders-Chile/)
 2. [Grupo de Facebook](https://www.facebook.com/groups/1648310812075159/)
+3. [Repositorio de Github](https://github.com/feranto/azure-clouders-chile)
+
+## ¿Como proponer una charla para un meetup?
+1. __Manera Corta:__ 
+2. __Manera github flow:__ Ingresa dentro de la estructura de carpetas al meetup en el que deseas proponer una charla
 
 ## Código de Conducta Comunidad ([basado en los guidelines de github mismo](https://help.github.com/articles/github-community-guidelines/))
 
