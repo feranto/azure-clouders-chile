@@ -4,6 +4,10 @@ Repo para poder planificar y compartir las charlas de la comunidad Azure Clouder
 ## ¿Como proponer una charla para un meetup?
 1. Ingresa dentro de la estructura de carpetas al meetup en el que deseas proponer una charla
 
+## Cómo organizamos nuestras charlas y colaboración
+1. [Meetup](https://www.meetup.com/Azure-Clouders-Chile/)
+2. [Grupo de Facebook](https://www.facebook.com/groups/1648310812075159/)
+
 ## Código de Conducta Comunidad ([basado en los guidelines de github mismo](https://help.github.com/articles/github-community-guidelines/))
 
 ### Recomendaciones para construir una comunidad fuerte
