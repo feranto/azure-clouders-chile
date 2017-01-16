@@ -1,3 +1,5 @@
+![alt text][logo]
+
 [logo]: https://a248.e.akamai.net/secure.meetupstatic.com/photos/theme_head/c/8/1/3/full_7311219.jpeg "Azure Clouders Chile"
 
 # Comunidad Azure Clouders Chile
