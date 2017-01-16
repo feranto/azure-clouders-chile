@@ -11,7 +11,7 @@ Tenemos la intención de realizar un meetup presencial el segundo jueves de cada
 *  19:00 - 19:20 : Llegada a lugar y compartir con miembros
 *  19:20 - 19:40 : Charla de 20 mins máximo
 *  19:40 - 20:00 : Charla de 20 mins máximo
-*  20:00 - 20:30 : Compartir con bebidas y cómida
+*  20:00 - 20:30 : Compartir con bebidas y cómida y Anuncios(si estas haciendo algun proyecto entretenido o quieres compartir ofertas de trabajo con la comunidad, este es el momento!!)
 
 Nuestros canales digitales
 
